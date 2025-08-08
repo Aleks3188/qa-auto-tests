@@ -6,3 +6,10 @@ dist/
 .coverage
 coverage.xml
 *.pytest_cache/
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

@@ -1,0 +1,22 @@
+{
+  "name": "qa-auto-tests",
+  "version": "1.0.0",
+  "description": "## Приветствую всех, кто заглянул сюда!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleks3188/qa-auto-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleks3188/qa-auto-tests/issues"
+  },
+  "homepage": "https://github.com/Aleks3188/qa-auto-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
